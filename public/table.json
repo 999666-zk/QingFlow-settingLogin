@@ -1,0 +1,73 @@
+{
+    "data": {
+        "logo_path": "https://file.qingflow.com/assets/logoBlack.png",
+        "userData": {
+            "username": "QingFlow",
+            "useQingFlowVersion": 4.3
+        },
+        "styleData": {
+            "qf_logo": "qf-logo_center",
+            "qf_login": "ms-login_right",
+            "qf_footer": "footer-bottom-center-up",
+            "login_type": "passport",
+            "login_tips": "2",
+            "login_footer": "2",
+            "homeUrl": "https://play.qingflow.com/arch/home",
+            "qflowType": "prod",
+            "qflowDomain": "play.qingflow.com",
+            "settingHide": "1"
+        },
+        "backgroundImg": [
+            "https://connect.oalite.com/img/eg1.png",
+            "https://connect.oalite.com/img/eg2.jpeg",
+            "https://connect.oalite.com/img/eg5.png",
+            "https://connect.oalite.com/img/eg4.png"
+        ],
+        "loginWays": [
+            {
+                "WayName": "微信",
+                "SyName": "wx",
+                "isShow": true,
+                "WayImgUrl": "https://connect.oalite.com/img/wechat-login.png",
+                "WayToUrl": ""
+            },
+            {
+                "WayName": "企业微信",
+                "SyName": "qw",
+                "isShow": true,
+                "WayImgUrl": "https://connect.oalite.com/img/workwechat-login.png",
+                "WayToUrl": ""
+            },
+            {
+                "WayName": "钉钉",
+                "SyName": "dd",
+                "isShow": true,
+                "WayImgUrl": "https://connect.oalite.com/img/dingtalk.png",
+                "WayToUrl": ""
+            },
+            {
+                "WayName": "飞书",
+                "SyName": "fs",
+                "isShow": true,
+                "WayImgUrl": "https://connect.oalite.com/img/lark.png",
+                "WayToUrl": ""
+            }
+        ],
+        "footData": {
+            "topArea": [
+                {
+                    "href": "",
+                    "img": "",
+                    "text": ""
+                }
+            ],
+            "underArea": [
+                {
+                    "href": "https://beian.miit.gov.cn",
+                    "img": "",
+                    "text": "沪ICP备16014957号"
+                }
+            ]
+        }
+    }
+}

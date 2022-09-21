@@ -1,0 +1,30 @@
+{
+  "id": "3590763",
+  "name": "轻流",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10678407",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "13743992",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "18384080",
+      "name": "设置",
+      "font_class": "setting-01",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    }
+  ]
+}
